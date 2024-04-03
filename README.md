@@ -19,7 +19,11 @@ I am a data scientist with a particular interest in analyzing geospatial data ðŸ
 
 In this page, you will find some codes for my published research works: Robust geographical (interaction) detector, Geocomplexity, and so on. Hope there will be more demo here in the future. I will be constantly delivering some tips on 'GGPlot2' for making scientific research figures at the publication level. 
 
-Bachelor of Science (Mathematics) (Shanghai University - 2018); Master of Information Technology (Unimelb - 2020); PhD (Curtin University - 2023)
+Bachelor of Science (Mathematics) (Shanghai University - 2018); 
+
+Master of Information Technology (with Distinction) (The University of Melbourne - 2020); 
+
+PhD, Chancellor's Commendation (Curtin University - 2023)
 
 Apart from the research, I also love - 
 
